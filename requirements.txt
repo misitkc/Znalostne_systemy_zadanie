@@ -1,0 +1,6 @@
+streamlit
+pgmpy
+pandas
+matplotlib
+networkx
+kagglehub
