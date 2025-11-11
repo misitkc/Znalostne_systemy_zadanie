@@ -51,3 +51,5 @@ if st.button("Natrénovať model"):
         ax.set_axis_off()
         ax.set_title("Štruktúra Bayesovej siete")
         st.pyplot(fig)
+
+    
